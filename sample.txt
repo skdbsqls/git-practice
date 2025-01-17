@@ -1,4 +1,4 @@
 Hello Git!!
-Hello Github!!!
+Hello GitLab!!!
 Hello A!!
 기러기
